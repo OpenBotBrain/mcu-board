@@ -33,3 +33,4 @@ Deeply WIP.
 - The board would be a [Raspberry Pi
   hat](https://github.com/raspberrypi/hats) that can work alone. This
   can be a rev 2 objective, but planning for the space would not hurt.
+- Driving external memories with the FSMC, application not AN4761
