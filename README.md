@@ -7,7 +7,7 @@ Deeply WIP.
 
 1. STM32 Cortex M4 (with FSMC)
 2. Extra flash and PSRAM
-2. WIFI module e.g. [ESP32 C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf))
+2. WIFI module e.g. [ESP32 C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf) or [ESP32 S3](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)
 3. 4 motor control ports (EV3 compatible)
 4. 4 sensor control ports (EV3 compatible)
 5. Raspberry Pi pin-out connector (enough to communicate with
