@@ -22,7 +22,7 @@ Deeply WIP.
 
 ### Alternative
 
-- STM32L4R5VG6 with 640KB of RAM instead of the external ram versions
+- STM32L4R5VGT6 with 640KB of RAM instead of the external ram versions
   (but it also supports the FMC/FSMC). And it is cheap, and more
   available than the previous ones.
 
