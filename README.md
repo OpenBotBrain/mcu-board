@@ -7,7 +7,7 @@ Deeply WIP.
 
 1. STM32 Cortex M4 (with FSMC)
 2. Extra flash and PSRAM
-2. WIFI module [e.g. (ESP32 C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf))
+2. WIFI module e.g. [ESP32 C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf))
 3. 4 motor control ports (EV3 compatible)
 4. 4 sensor control ports (EV3 compatible)
 5. Raspberry Pi pin-out connector (enough to communicate with
@@ -29,6 +29,6 @@ Deeply WIP.
   commands](https://docs.espressif.com/projects/esp-at/en/latest/esp32/Compile_and_Develop/How_to_add_user-defined_AT_commands.html).
   Other things could be moved to the WIFI module too (the interface
   buttons, maybe).
-- The board would be a (Raspberry Pi
-  hat)[https://github.com/raspberrypi/hats] that can work alone. This
+- The board would be a [Raspberry Pi
+  hat](https://github.com/raspberrypi/hats) that can work alone. This
   can be a rev 2 objective, but planning for the space would not hurt.
