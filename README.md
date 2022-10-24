@@ -24,7 +24,7 @@ Deeply WIP.
 
 - STM32L4R5VGT6 with 640KB of RAM instead of the external ram versions
   (but it also supports the FMC/FSMC). And it is cheap, and more
-  available than the previous ones.
+  available than the previous ones. (Or the subtly better STM32L4R5VIT6)
 
 ### Notes
 
@@ -40,3 +40,29 @@ Deeply WIP.
   hat](https://github.com/raspberrypi/hats) that can work alone. This
   can be a rev 2 objective, but planning for the space would not hurt.
 - Driving external memories with the FSMC, application not AN4761
+
+# smaller mcu-board
+
+## Features
+
+1. STM32 Cortex M4 - May be
+   - STM32L4P5CGT6
+   - STM32L4P5CGT6P
+   - STM32L4Q5CGT6
+   - STM32L4Q5CGT6P
+all (48-LQFP with 1MB of flash, and 320KB of RAM).
+
+2. WIFI module e.g. [ESP32 C3](https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf) or [ESP32 S3](https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)
+
+3. 4 motor control ports (EV3 compatible)
+4. 4 sensor control ports (EV3 compatible)
+
+5. Raspberry Pi pin-out connector (enough to communicate with
+   Raspberry pi Zero, does not need full support)
+
+5. SD card (SPI interface enough/SDIO nice to have but requires supported MCU)
+6. Accelerometer (could be external)
+7. STEMMA QT connector (nice to have)
+8. Some informative display (nice to have)
+9. A couple of buttons for interface (nice to have also)
+10. Lego "compatible" physical shape.
