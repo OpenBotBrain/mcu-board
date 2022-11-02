@@ -63,6 +63,6 @@ all (48-LQFP with 1MB of flash, and 320KB of RAM).
 5. SD card (SPI interface enough/SDIO nice to have but requires supported MCU)
 6. Accelerometer (could be external)
 7. STEMMA QT connector (nice to have)
-8. Some informative display (nice to have)
+8. Some informative display and a couple of LEDs (nice to have)
 9. A couple of buttons for interface (nice to have also)
 10. Lego "compatible" physical shape.
