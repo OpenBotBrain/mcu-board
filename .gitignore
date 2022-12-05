@@ -1,2 +1,12 @@
 # macos files
 .DS_Store
+
+# Kicad file
+
+*.bak
+fp-info-cache
+*-backups
+
+# various files
+
+*~
