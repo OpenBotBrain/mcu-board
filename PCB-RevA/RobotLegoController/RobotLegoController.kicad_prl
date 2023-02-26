@@ -9,9 +9,9 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
-      "pads": 0.6000000238418579,
-      "tracks": 1.0,
-      "vias": 1.0,
+      "pads": 0.6399999856948853,
+      "tracks": 0.8799999952316284,
+      "vias": 0.7599999904632568,
       "zones": 0.8299999833106995
     },
     "selection_filter": {
@@ -65,7 +65,7 @@
       39,
       40
     ],
-    "visible_layers": "808dddd_ffffffff",
+    "visible_layers": "800dddf_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
