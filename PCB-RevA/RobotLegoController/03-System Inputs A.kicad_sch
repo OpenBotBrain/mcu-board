@@ -4830,7 +4830,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 172.72 45.72 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 021af458-c781-4bda-8070-ad3053ae0dc4)
     (property "Reference" "TP?" (at 169.418 43.18 90)
       (effects (font (size 1.27 1.27)))
@@ -4914,7 +4914,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 45.72 158.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 04618328-65e2-44f5-b1f6-1351ea405c92)
     (property "Reference" "TP?" (at 48.26 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4942,7 +4942,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 90.17 167.64 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 076cb29e-3481-49e5-b708-6ce4b55703b1)
     (property "Reference" "TP?" (at 95.25 167.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5034,7 +5034,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 193.04 236.22 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 0abee87b-46be-441f-8149-cc91f338aa8e)
     (property "Reference" "TP?" (at 190.5 231.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5062,7 +5062,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 57.15 124.46 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 0ad65746-508b-42a2-a6d6-2ff9a8723ce3)
     (property "Reference" "TP?" (at 62.23 124.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5090,7 +5090,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 217.17 73.66 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 0ff02ba5-7255-419a-86da-5f70bcdee1f2)
     (property "Reference" "TP?" (at 222.25 73.66 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5394,7 +5394,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 105.41 48.26 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 2046f7ff-247a-4c96-8622-1a6a4e8b621e)
     (property "Reference" "TP?" (at 110.49 48.26 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5540,7 +5540,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 64.77 236.22 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 260a8f8a-8e1d-4ce7-aa86-3088c980155e)
     (property "Reference" "TP?" (at 62.23 231.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5720,7 +5720,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 201.93 213.36 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 374dc59e-f3fe-4a1f-bff2-552a95532d0d)
     (property "Reference" "TP?" (at 196.85 213.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5987,7 +5987,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 34.29 236.22 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 42de4bc0-1cbd-48b0-b203-2b771d0c83ce)
     (property "Reference" "TP62" (at 31.75 231.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6161,7 +6161,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 185.42 124.46 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 47b1a07e-c133-42f1-a546-ea218dae52c4)
     (property "Reference" "TP?" (at 190.5 124.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6284,7 +6284,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 110.49 243.84 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 53d26138-5073-46cb-9227-ac7aef6caf9a)
     (property "Reference" "TP?" (at 115.57 243.84 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6559,7 +6559,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 73.66 213.36 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 613be527-8d05-4d4c-88e9-3b48ecf360b4)
     (property "Reference" "TP?" (at 68.58 213.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6948,7 +6948,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 162.56 236.22 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 6dd5a199-219b-4816-93b7-e458ef7f0580)
     (property "Reference" "TP64" (at 160.02 231.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7459,7 +7459,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 44.45 45.72 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 8b8c9705-a514-40ce-b058-067248ccb2cd)
     (property "Reference" "TP?" (at 41.148 43.18 90)
       (effects (font (size 1.27 1.27)))
@@ -8183,7 +8183,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 238.76 243.84 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid ad606124-ed72-4bd3-958a-df17cac61f74)
     (property "Reference" "TP?" (at 243.84 243.84 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8885,7 +8885,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 218.44 167.64 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid c07d537c-2f00-4b49-a193-2fe3dd5f51f0)
     (property "Reference" "TP?" (at 223.52 167.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9708,7 +9708,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 96.52 267.97 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid e27e7a81-7f20-4664-a0e0-fd68de532236)
     (property "Reference" "TP?" (at 101.6 267.97 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9972,7 +9972,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 224.79 267.97 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid eda98b33-f421-4d78-b3c9-b3cac2c505ab)
     (property "Reference" "TP?" (at 229.87 267.97 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10028,7 +10028,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 233.68 48.26 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid ee05a7a0-9839-44b0-bd20-cc2009311db1)
     (property "Reference" "TP?" (at 238.76 48.26 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10259,7 +10259,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 88.9 73.66 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid f34cb3d8-3395-454a-b2ba-623779e19a59)
     (property "Reference" "TP?" (at 93.98 73.66 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10463,7 +10463,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 173.99 158.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid faa76c4b-33c2-4d2b-850f-e36aeb9a92df)
     (property "Reference" "TP?" (at 176.53 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
