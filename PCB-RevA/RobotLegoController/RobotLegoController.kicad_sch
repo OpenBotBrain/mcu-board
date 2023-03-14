@@ -5,11 +5,11 @@
   (paper "A3")
 
   (title_block
-    (title "Robot Lego Controller")
+    (title "OpenBotBrain")
     (date "2023-02-22")
     (rev "REV A")
-    (company "Santiago Goldaraz")
-    (comment 1 "santiagogoldaraz@gmail.com")
+    (company "design by sggtav")
+    (comment 1 "sggtav@gmail.com")
   )
 
   (lib_symbols
@@ -1589,7 +1589,7 @@
     (effects (font (face "Arial") (size 1.27 1.27) bold (color 0 0 0 1)) (justify left bottom))
     (uuid eef09e86-6163-4655-9d83-ac360214703c)
   )
-  (text "Robot LEGO Controller" (at 158.75 153.67 0)
+  (text "OpenBotBrain" (at 175.26 153.67 0)
     (effects (font (face "Arial") (size 6 6) (thickness 0.6) bold) (justify left bottom))
     (uuid f531aafc-351d-4160-8c6d-b7a6d7fbb794)
   )
